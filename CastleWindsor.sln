@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part07.SwitchingImplementat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part08.ReferencingImplementationsByKey", "Part08.ReferencingImplementationsByKey\Part08.ReferencingImplementationsByKey.csproj", "{8C1F1317-2A07-4868-9A2E-A279214A2DEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part09.ConstructorInjection", "Part09.ConstructorInjection\Part09.ConstructorInjection.csproj", "{78CFC742-C41A-4D42-B3BD-CB1792490F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part10.SetterInjection", "Part10.SetterInjection\Part10.SetterInjection.csproj", "{5C1252B7-1B7E-48A3-928A-0ED77C3A2B9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{8C1F1317-2A07-4868-9A2E-A279214A2DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C1F1317-2A07-4868-9A2E-A279214A2DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C1F1317-2A07-4868-9A2E-A279214A2DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CFC742-C41A-4D42-B3BD-CB1792490F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CFC742-C41A-4D42-B3BD-CB1792490F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CFC742-C41A-4D42-B3BD-CB1792490F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CFC742-C41A-4D42-B3BD-CB1792490F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1252B7-1B7E-48A3-928A-0ED77C3A2B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1252B7-1B7E-48A3-928A-0ED77C3A2B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1252B7-1B7E-48A3-928A-0ED77C3A2B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1252B7-1B7E-48A3-928A-0ED77C3A2B9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
